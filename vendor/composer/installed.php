@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'inaldooliveira/advocacia',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-master',
+        'version' => 'dev-master',
+        'reference' => '38de21c5d7e1bedc3fa14df994a648d9ac54764c',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'inaldooliveira/advocacia' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-master',
+            'version' => 'dev-master',
+            'reference' => '38de21c5d7e1bedc3fa14df994a648d9ac54764c',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
